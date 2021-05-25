@@ -1,0 +1,16 @@
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csprojAssemblyReference.cache
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\leand\Documents\Projetos\Alura\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
